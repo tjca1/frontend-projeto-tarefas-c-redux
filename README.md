@@ -1,4 +1,5 @@
-"# frontend-projeto-tarefas-c-redux" 
+"# frontend-projeto-tarefas-c-redux"
+<br>
 echo ///sobi o servidor para testes da aplicação////////////////////////////////////////////////////////////////
 npm i --save-dev webpack@1.14.0 
 npm i --save-dev webpack-dev-server@1.16.2
