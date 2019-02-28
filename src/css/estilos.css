@@ -1,0 +1,20 @@
+.btn {
+    margin-right: 5px;
+}
+
+.classDone {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.tablePesquisaTh {
+    width: 105px;
+}
+
+.tableDefaultTd {
+    width: 30px;
+}
+
+.pesquisaForm {
+    padding-bottom: 60px;
+}
