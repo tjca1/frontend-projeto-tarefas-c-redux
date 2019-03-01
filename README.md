@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 "# frontend-projeto-tarefas-c-redux" 
 <br>
 echo ///sobi o servidor para testes da aplicação///////////////////////////////////////////////////////////////<br>
+=======
+"# frontend-projeto-tarefas-c-redux"
+<br>
+echo ///sobi o servidor para testes da aplicação////////////////////////////////////////////////////////////////
+>>>>>>> 75b75af3ad2d65bcdf45b2ac25bcea922cecfd41
 npm i --save-dev webpack@1.14.0 
 <br>
 npm i --save-dev webpack-dev-server@1.16.2
